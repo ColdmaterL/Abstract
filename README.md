@@ -6,7 +6,7 @@
 </div>
 <hr>
 <h2>Tecnologia Utilizada</h2>
-  <li> zC#</li>
+  <li> C#</li>
 <h2>Recursos</h2>
   
 - [x] Listas
